@@ -1,0 +1,6 @@
+{
+	"manifest_version": 2,
+	"name": "codekandis/video-controller",
+	"version": "development",
+	"description": "The `codekandis/video-controller` webextension enhances the usability of video elements in any website."
+}
